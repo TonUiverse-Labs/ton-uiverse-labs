@@ -14,11 +14,12 @@ hero:
       link: /ton-course/1/1.md
     - theme: alt
       text: GitHub
-      link: /https://github.com/TonUiverse-Labs
+      link: https://github.com/TonUiverse-Labs
 
 features:
   - title: 一、TON 与 TG Bot 开发生态入门
     details: 介绍TON区块链的特点与优势；  实战案例介绍-NFT Market Place； 工具和开发环境准备（Telegram Bot、TON开发工具）
+    link: /https://github.com/TonUiverse-Labs
   - title: 二、Telegram Bot 开发：账户体系功能实现
     details: Telegram用户注册与邀请功能实现；存储用户注册信息并统计邀请数
   - title: 三、Telegram Bot 开发：裂变与排行榜功能实现
