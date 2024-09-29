@@ -19,16 +19,21 @@ hero:
 features:
   - title: 一、TON 与 TG Bot 开发生态入门
     details: 介绍TON区块链的特点与优势；  实战案例介绍-NFT Market Place； 工具和开发环境准备（Telegram Bot、TON开发工具）
-    link: /https://github.com/TonUiverse-Labs
+    link: /ton-course/1/index.md
   - title: 二、Telegram Bot 开发：账户体系功能实现
     details: Telegram用户注册与邀请功能实现；存储用户注册信息并统计邀请数
+    link: /ton-course/2/index.md
   - title: 三、Telegram Bot 开发：裂变与排行榜功能实现
     details: 实现排行榜的前后端数据交互；获取并展示Telegram用户的头像；实现用户分数或邀请数的排行榜展示
+    link: /ton-course/3/index.md
   - title: 四、TON 合约开发：FunC入门与部署
     details: 介绍智能合约的基本概念；TON链上的智能合约开发与部署；前端项目集成与合约对接
+    link: /ton-course/4/index.md
   - title: 五、TON 合约开发：前端交互的实现
     details: 介绍如何创建前端项目并与智能合约对接；通过前端进行NFT查询、展示和交互；NFT Mint功能实现与发布
+    link: /ton-course/5/index.md
   - title: 六、案例上线：钱包集成与项目部署
     details: 实现排行榜的前后端数据交互；获取并展示Telegram用户的头像；实现用户分数或邀请数的排行榜展示
+    link: /ton-course/6/index.md
 ---
 
