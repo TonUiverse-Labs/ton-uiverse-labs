@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Toniverse Labs",
   description: `Uiverse suggest that our studio is a global center for TON development. Labs reflects our team's exploration of cutting-edge technologies and solutions`,
-  base: '/',
+  base: '/toniverse/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
