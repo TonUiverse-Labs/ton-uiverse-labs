@@ -36,6 +36,7 @@ export default defineConfig({
           },
           {
             text: '第二课',
+            link: '/ton-course/2/index.md',
             items: [
               {
                 text: 'Telegram用户注册与邀请功能实现',
@@ -49,6 +50,7 @@ export default defineConfig({
           },
           {
             text: '第三课',
+            link: '/ton-course/3/index.md',
             items: [
               {
                 text: '实现排行榜的前后端数据交互',
@@ -66,6 +68,7 @@ export default defineConfig({
           },
           {
             text: '第四课',
+            link: '/ton-course/4/index.md',
             items: [
               {
                 text: '介绍智能合约的基本概念',
@@ -83,6 +86,7 @@ export default defineConfig({
           },
           {
             text: '第五课',
+            link: '/ton-course/5/index.md',
             items: [
               {
                 text: '介绍如何创建前端项目并与智能合约对接',
@@ -100,6 +104,7 @@ export default defineConfig({
           },
           {
             text: '第六课',
+            link: '/ton-course/6/index.md',
             items: [
               {
                 text: '实现NFT的Mint功能，让用户能够通过平台铸造NFT',
