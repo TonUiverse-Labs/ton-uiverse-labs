@@ -47,7 +47,74 @@ export default defineConfig({
               },
             ],
           },
-        ],
+          {
+            text: '第三课',
+            items: [
+              {
+                text: '实现排行榜的前后端数据交互',
+                link: '/ton-course/3/实现排行榜的前后端数据交互.md',
+              },
+              {
+                text: '获取并展示Telegram用户的头像',
+                link: '/ton-course/3/获取并展示Telegram用户的头像.md',
+              },
+              {
+                text: '实现用户分数或邀请数的排行榜展示',
+                link: '/ton-course/3/实现用户分数或邀请数的排行榜展示.md',
+              },
+            ],
+          },
+          {
+            text: '第四课',
+            items: [
+              {
+                text: '介绍智能合约的基本概念',
+                link: '/ton-course/4/介绍智能合约的基本概念.md',
+              },
+              {
+                text: 'TON链上的智能合约开发与部署',
+                link: '/ton-course/4/TON链上的智能合约开发与部署.md',
+              },
+              {
+                text: '前端项目集成与合约对接',
+                link: '/ton-course/4/前端项目集成与合约对接.md',
+              },
+            ],
+          },
+          {
+            text: '第五课',
+            items: [
+              {
+                text: '介绍如何创建前端项目并与智能合约对接',
+                link: '/ton-course/5/介绍如何创建前端项目并与智能合约对接.md',
+              },
+              {
+                text: '通过前端进行NFT查询、展示和交互',
+                link: '/ton-course/5/通过前端进行NFT查询、展示和交互.md',
+              },
+              {
+                text: 'NFT Mint功能实现与发布',
+                link: '/ton-course/4/NFT Mint功能实现与发布.md',
+              },
+            ],
+          },
+          {
+            text: '第六课',
+            items: [
+              {
+                text: '实现NFT的Mint功能，让用户能够通过平台铸造NFT',
+                link: '/ton-course/6/实现NFT的Mint功能，让用户能够通过平台铸造NFT.md',
+              },
+              {
+                text: '使用TON钱包完成NFT交易',
+                link: '/ton-course/6/使用TON钱包完成NFT交易.md',
+              },
+              {
+                text: '将项目部署并展示给用户',
+                link: '/ton-course/6/将项目部署并展示给用户.md',
+              },
+            ],
+          },],
       }
     ],
 
